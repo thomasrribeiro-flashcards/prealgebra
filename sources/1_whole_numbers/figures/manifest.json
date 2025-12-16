@@ -1,0 +1,788 @@
+{
+  "chapter-header-image-showing-a-fruit-mar.png": {
+    "type": "decorative",
+    "description": "Chapter header image showing a fruit market display with colorful fruits (bananas, pineapples, grapes, apples) with white text 'WHOLE NUMBERS' and number '1' on yellow background. Caption reads 'Figure 1.1 Purchasing pounds of fruit at a fruit market requires a basic understanding of numbers. (credit: Dr. Karl-Heinz Hochhaus, Wikimedia Commons)'",
+    "flashcard_suggestion": null,
+    "original_filename": "1.png"
+  },
+  "number-line-diagram-showing-whole-number.png": {
+    "type": "diagram",
+    "description": "Number line diagram showing whole numbers 0 through 6 with arrows indicating 'smaller' pointing left and 'larger' pointing right. Caption states 'Figure 1.2 The numbers on the number line increase from left to right, and decrease from right to left.'",
+    "flashcard_suggestion": "Concept card: Which direction do numbers increase on a number line?",
+    "original_filename": "2.png"
+  },
+  "figure-1-3-showing-place-value-with-us-c.png": {
+    "type": "concept_illustration",
+    "description": "Figure 1.3 showing place value with US currency: Three $100 bills (3 × $100 = $300), Seven $10 bills (7 × $10 = $70), Four $1 bills (4 × $1 = $4), demonstrating multiplication and place value with money",
+    "flashcard_suggestion": "Visual example for understanding place value using money representation",
+    "original_filename": "3.png"
+  },
+  "figure-1-4-showing-base-10-blocks-repres.png": {
+    "type": "diagram",
+    "description": "Figure 1.4 showing base-10 blocks representation: A single block represents 1, a rod (10 blocks in a row) represents 10, and a square (10×10 grid) represents 100",
+    "flashcard_suggestion": "Recognition card: Identify base-10 block representations (ones, tens, hundreds)",
+    "original_filename": "4.png"
+  },
+  "figure-1-5-demonstrating-the-number-138.png": {
+    "type": "worked_example",
+    "description": "Figure 1.5 demonstrating the number 138 modeled with base-10 blocks: 1 hundred-square, 3 ten-rods, and 8 one-blocks. Shows place value notation equation 100 + 30 + 8 = 138",
+    "flashcard_suggestion": "P:/S: card showing base-10 blocks, asking to identify the number (138)",
+    "original_filename": "5.png"
+  },
+  "partial-place-value-chart-showing-first-1.png": {
+    "type": "table",
+    "description": "Partial place value chart showing first two rows for number 138: Row 1 shows digit 1 in hundreds place with value 100 (total value 100), Row 2 shows digit 3 in tens place with value 10 (total value 30)",
+    "flashcard_suggestion": "Fill-in table exercise for place value understanding",
+    "original_filename": "6-1.png"
+  },
+  "partial-place-value-chart-showing-first-2.png": {
+    "type": "table",
+    "description": "Continuation of place value chart for 138: Shows digit 8 in ones place with value 1 (total value +8), with final sum = 138",
+    "flashcard_suggestion": "Complete the place value table exercise",
+    "original_filename": "6-2.png"
+  },
+  "practice-problem-showing-base-10-blocks.png": {
+    "type": "worked_example",
+    "description": "Practice problem showing base-10 blocks: 2 hundred-squares, 1 ten-rod, and 5 one-blocks. Instructions ask to use place value notation to find the value (answer would be 215)",
+    "flashcard_suggestion": "P:/S: card with base-10 blocks asking to determine the number",
+    "original_filename": "7.png"
+  },
+  "practice-problem-showing-base-10-blocks-1.png": {
+    "type": "worked_example",
+    "description": "Practice problem showing base-10 blocks: 1 hundred-square, 7 ten-rods, and 2 groups of one-blocks (appears to be 172). Instructions ask to use place value notation to find the value",
+    "flashcard_suggestion": "P:/S: card with base-10 blocks asking to determine the number",
+    "original_filename": "8.png"
+  },
+  "figure-1-6-showing-place-value-chart-for.png": {
+    "type": "diagram",
+    "description": "Figure 1.6 showing place value chart for the number 5,278,194 with all place values from ones to hundred trillions labeled. The digits 5, 2, 7, 8, 1, 9, 4 are filled in the appropriate positions (millions through ones)",
+    "flashcard_suggestion": "Reading large numbers: Given place value chart, read the number aloud",
+    "original_filename": "9.png"
+  },
+  "demonstration-of-reading-large-number-37.png": {
+    "type": "worked_example",
+    "description": "Demonstration of reading large number 37,519,248 with periods marked (millions, thousands, ones) and breakdown showing: 37 = 'Thirty-seven million', 519 = 'Five hundred nineteen thousand', 248 = 'Two hundred forty-eight'. Full reading: 'thirty-seven million, five hundred nineteen thousand, two hundred forty-eight'",
+    "flashcard_suggestion": "P:/S: card showing number 37,519,248, asking how to read it in words",
+    "original_filename": "10.png"
+  },
+  "demonstration-of-reading-large-number-8.png": {
+    "type": "worked_example",
+    "description": "Demonstration of reading large number 8,165,432,098,710 with periods marked (trillions, billions, millions, thousands, ones) showing breakdown: 8 = 'Eight trillion', 165 = 'One hundred sixty-five billion', 432 = 'Four hundred thirty-two million', 098 = 'Ninety-eight thousand', 710 = 'Seven hundred ten'",
+    "flashcard_suggestion": "P:/S: card with number 8,165,432,098,710, asking to read in words",
+    "original_filename": "11.png"
+  },
+  "demonstration-of-writing-a-number-from-w.png": {
+    "type": "worked_example",
+    "description": "Demonstration of writing a number from words to digits: 'fifty-three million, four hundred one thousand, seven hundred forty-two' converted to numerical form showing 53 (millions), 401 (thousands), 742 (ones), resulting in 53,401,742",
+    "flashcard_suggestion": "P:/S: card with written words asking to convert to digits",
+    "original_filename": "12.png"
+  },
+  "demonstration-of-writing-a-number-from-w-1.png": {
+    "type": "worked_example",
+    "description": "Demonstration of writing a number from words to digits: 'nine billion, two hundred forty-six million, seventy-three thousand, one hundred eighty-nine' broken down by periods showing 9 (billions), 246 (millions), 073 (thousands), 189 (ones)",
+    "flashcard_suggestion": "P:/S: card with written number name asking to convert to digits (9,246,073,189)",
+    "original_filename": "13.png"
+  },
+  "figure-1-7-showing-number-line-from-70-t.png": {
+    "type": "diagram",
+    "description": "Figure 1.7 showing number line from 70 to 80 with 76 marked, demonstrating rounding concept. Text explains that 76 is closer to 80 than to 70, so 76 rounded to the nearest ten is 80",
+    "flashcard_suggestion": "Visual rounding concept: Use number line to round 76 to nearest ten",
+    "original_filename": "14.png"
+  },
+  "figure-1-8-showing-number-line-from-70-t.png": {
+    "type": "diagram",
+    "description": "Figure 1.8 showing number line from 70 to 80 with 72 marked, demonstrating that 72 is closer to 70, so 72 rounded to the nearest ten is 70",
+    "flashcard_suggestion": "P:/S: Round 72 to the nearest ten (answer: 70)",
+    "original_filename": "15.png"
+  },
+  "figure-1-9-showing-number-line-from-70-t.png": {
+    "type": "diagram",
+    "description": "Figure 1.9 showing number line from 70 to 80 with 75 marked exactly midway. Explains the rounding rule: when a number is exactly halfway (75), mathematicians agree to round to the higher number, so 75 rounded to nearest ten is 80",
+    "flashcard_suggestion": "Concept card: What is the rule when rounding a number exactly halfway between two values?",
+    "original_filename": "16.png"
+  },
+  "step-by-step-rounding-example-showing-ho.png": {
+    "type": "worked_example",
+    "description": "Step-by-step rounding example showing how to round 76 to nearest ten: identify tens place (7), check ones digit (6 is greater than 5), add 1 to tens place (7→8), replace ones digit with 0. Result: 76 rounds to 80",
+    "flashcard_suggestion": "P:/S: Round 76 to the nearest ten showing work",
+    "original_filename": "17.png"
+  },
+  "step-by-step-rounding-example-showing-ho-1.png": {
+    "type": "worked_example",
+    "description": "Step-by-step rounding example showing how to round 72 to nearest ten: identify tens place (7), check ones digit (2 is less than 5), keep tens digit the same, replace ones with 0. Result: 72 rounds to 70",
+    "flashcard_suggestion": "P:/S: Round 72 to the nearest ten showing work",
+    "original_filename": "18.png"
+  },
+  "step-by-step-procedure-for-rounding-843.png": {
+    "type": "worked_example",
+    "description": "Step-by-step procedure for rounding 843 to nearest ten: (1) Locate tens place, (2) Underline digit to right of tens place (3), (3) Since 3 < 5, don't change tens digit, (4) Replace all digits right of tens with zeros. Result: 843 rounds to 840",
+    "flashcard_suggestion": "P:/S: Round 843 to the nearest ten (answer: 840)",
+    "original_filename": "19.png"
+  },
+  "step-by-step-rounding-example-showing-ho-2.png": {
+    "type": "worked_example",
+    "description": "Step-by-step rounding example showing how to round 23,658 to the nearest hundred. Identifies the hundreds place (6), checks the digit to the right (5), and since 5 ≥ 5, rounds up by adding 1 to the hundreds place and replacing all digits to the right with zeros, resulting in 23,700.",
+    "flashcard_suggestion": "P:/S: card asking to round 23,658 to the nearest hundred",
+    "original_filename": "20.png"
+  },
+  "first-step-of-rounding-3-978-to-the-near-1.png": {
+    "type": "worked_example",
+    "description": "First step of rounding 3,978 to the nearest hundred - locates the hundreds place (9) with an arrow pointing to it.",
+    "flashcard_suggestion": "Part of multi-step example, combine with 21-2.png for complete flashcard",
+    "original_filename": "21-1.png"
+  },
+  "first-step-of-rounding-3-978-to-the-near-2.png": {
+    "type": "worked_example",
+    "description": "Second step showing how to round 3,978 to the nearest hundred. The digit to the right of hundreds place is 7. Since 7 ≥ 5, round up by adding 1 to the 9 (making 10), write 0 in hundreds place, add 1 to thousands place, and replace digits to the right with zeros, resulting in 4,000.",
+    "flashcard_suggestion": "P:/S: card asking to round 3,978 to the nearest hundred",
+    "original_filename": "21-2.png"
+  },
+  "step-by-step-rounding-example-showing-ho-3.png": {
+    "type": "worked_example",
+    "description": "Step-by-step rounding example showing how to round 147,032 to the nearest thousand. Identifies the thousands place (7), checks the digit to the right (0). Since 0 < 5, do not change the thousands digit, then replace all digits to the right with zeros, resulting in 147,000.",
+    "flashcard_suggestion": "P:/S: card asking to round 147,032 to the nearest thousand",
+    "original_filename": "22.png"
+  },
+  "first-step-of-rounding-29-504-to-the-nea-1.png": {
+    "type": "worked_example",
+    "description": "First step of rounding 29,504 to the nearest thousand - locates the thousands place (9) with an arrow pointing to it.",
+    "flashcard_suggestion": "Part of multi-step example, combine with 23-2.png for complete flashcard",
+    "original_filename": "23-1.png"
+  },
+  "first-step-of-rounding-29-504-to-the-nea-2.png": {
+    "type": "worked_example",
+    "description": "Second step showing how to round 29,504 to the nearest thousand. The digit to the right of thousands place is 5. Since 5 ≥ 5, round up by adding 1 to the 9 (making 10), write 0 in thousands place, add 1 to ten thousands place, and replace all digits to the right with zeros, resulting in 30,000.",
+    "flashcard_suggestion": "P:/S: card asking to round 29,504 to the nearest thousand",
+    "original_filename": "23-2.png"
+  },
+  "base-10-blocks-representation-showing-30.png": {
+    "type": "diagram",
+    "description": "Base-10 blocks representation showing 304 using 3 hundred-blocks (10×10 grids), 0 ten-rods, and 4 unit cubes arranged to visually demonstrate place value.",
+    "flashcard_suggestion": "Image occlusion card hiding the blocks and asking to represent 304 with base-10 blocks",
+    "original_filename": "24.png"
+  },
+  "base-10-blocks-representation-showing-56.png": {
+    "type": "diagram",
+    "description": "Base-10 blocks representation showing 561 using 5 hundred-blocks (10×10 grids in top row), 6 ten-rods (horizontal bars in middle), and 1 unit cube at the bottom.",
+    "flashcard_suggestion": "Image occlusion card hiding the blocks and asking to represent 561 with base-10 blocks, or reverse: show blocks and ask for the number",
+    "original_filename": "25.png"
+  },
+  "base-10-blocks-representation-showing-40.png": {
+    "type": "diagram",
+    "description": "Base-10 blocks representation showing 407 using 4 hundred-blocks (10×10 grids arranged in a 2×2 pattern in top left), 0 ten-rods, and 7 unit cubes at the bottom right.",
+    "flashcard_suggestion": "Image occlusion card showing blocks and asking what number is represented, or asking to draw 407",
+    "original_filename": "26.png"
+  },
+  "base-10-blocks-representation-showing-62.png": {
+    "type": "diagram",
+    "description": "Base-10 blocks representation showing 620 using 6 hundred-blocks (10×10 grids arranged in two columns of 3), 2 ten-rods (horizontal bars at bottom), and 0 unit cubes.",
+    "flashcard_suggestion": "Image occlusion card for identifying the number 620 from base-10 blocks",
+    "original_filename": "27.png"
+  },
+  "addition-notation-table-showing-operatio.png": {
+    "type": "table",
+    "description": "Addition Notation table showing Operation (Addition), Notation (+), Expression (3 + 4), Read as (three plus four), and Result (the sum of 3 and 4). Explains how to describe addition using symbols and words.",
+    "flashcard_suggestion": "Basic card asking: How do you write 'three plus four' in mathematical notation? Or: What does 3 + 4 read as in words?",
+    "original_filename": "28.png"
+  },
+  "visual-demonstration-of-addition-3-4-7-u.png": {
+    "type": "concept_illustration",
+    "description": "Visual demonstration of addition 3 + 4 = 7 using block diagrams. Shows 3 blocks, then 4 blocks added, then counting total of 7 blocks. Introduces the concept of equations and the equal sign to show that two expressions are equal.",
+    "flashcard_suggestion": "Basic card asking to model 3 + 4 using blocks or explain what an equation is",
+    "original_filename": "29.png"
+  },
+  "visual-demonstration-of-addition-2-6-8-u.png": {
+    "type": "concept_illustration",
+    "description": "Visual demonstration of addition 2 + 6 = 8 using block diagrams. Shows modeling 2 blocks, then 6 blocks, then counting the total of 8 blocks to illustrate the addition concept.",
+    "flashcard_suggestion": "P:/S: card showing first two steps and asking for the sum, or asking to model 2 + 6",
+    "original_filename": "30.png"
+  },
+  "visual-demonstration-of-addition-5-8-13.png": {
+    "type": "concept_illustration",
+    "description": "Visual demonstration of addition 5 + 8 = 13 using ones blocks and place value exchange. Shows 5 blocks plus 8 blocks making more than 10, then exchanging 10 ones blocks (circled) for 1 tens rod (colored orange), resulting in 1 ten and 3 ones, which equals 13.",
+    "flashcard_suggestion": "P:/S: card asking to add 5 + 8 using base-10 blocks, emphasizing regrouping/exchange concept",
+    "original_filename": "31.png"
+  },
+  "visual-demonstration-of-addition-17-26-4.png": {
+    "type": "concept_illustration",
+    "description": "Visual demonstration of addition 17 + 26 = 43 using base-10 blocks. Shows modeling 17 (1 ten, 7 ones) and 26 (2 tens, 6 ones), combining them to get 3 tens and 13 ones, then exchanging 10 ones for 1 ten to arrive at 4 tens and 3 ones, which equals 43. Labeled as Figure 1.10.",
+    "flashcard_suggestion": "P:/S: card asking to add 17 + 26 using base-10 blocks with regrouping",
+    "original_filename": "32.png"
+  },
+  "addition-table-table-1-1-showing-sums-fo.png": {
+    "type": "table",
+    "description": "Addition table (Table 1.1) showing sums for single-digit numbers 0-9. A 10×10 grid with row headers and column headers 0-9, displaying all possible sums from 0+0=0 up to 9+9=18.",
+    "flashcard_suggestion": "Reference table - could use for drilling basic addition facts by covering results",
+    "original_filename": "33.png"
+  },
+  "step-by-step-addition-of-43-69-with-carr.png": {
+    "type": "worked_example",
+    "description": "Step-by-step addition of 43 + 69 with carrying. Shows: (1) write numbers vertically, (2) add ones: 3 + 9 = 12, write 2 in ones place and carry 1 ten to tens place, (3) add tens: 1 + 4 + 6 = 11, write 11 in the sum, resulting in 112.",
+    "flashcard_suggestion": "P:/S: card asking to add 43 + 69 using vertical addition with carrying",
+    "original_filename": "34.png"
+  },
+  "first-step-of-vertical-addition-324-586.png": {
+    "type": "worked_example",
+    "description": "First step of vertical addition 324 + 586, showing how to write the numbers vertically and begin adding ones place: 4 + 6 = 10. Write 0 in ones place and carry the 1 ten to tens place.",
+    "flashcard_suggestion": "Part of multi-step example, combine with 36-1.png and 36-2.png for complete problem",
+    "original_filename": "35.png"
+  },
+  "second-step-of-addition-324-586-showing-1.png": {
+    "type": "worked_example",
+    "description": "Second step of addition 324 + 586, showing adding tens: 1 + 2 + 8 = 11. Write 1 in tens place and carry the 1 hundred to hundreds place. Shows partial result of 10.",
+    "flashcard_suggestion": "Part of multi-step example - intermediate step",
+    "original_filename": "36-1.png"
+  },
+  "second-step-of-addition-324-586-showing-2.png": {
+    "type": "worked_example",
+    "description": "Third and final step of addition 324 + 586, showing adding hundreds: 1 + 3 + 5 = 9. Write 9 in hundreds place to complete the sum of 910.",
+    "flashcard_suggestion": "P:/S: card asking to add 324 + 586 with carrying/regrouping",
+    "original_filename": "36-2.png"
+  },
+  "step-by-step-addition-of-1-683-479-2-162.png": {
+    "type": "worked_example",
+    "description": "Step-by-step addition of 1,683 + 479 = 2,162 with detailed carrying explanation. Shows vertical alignment, then adds ones (3+9=12, write 2 carry 1), tens (1+8+7=16, write 6 carry 1), hundreds (1+6+4=11, write 1 carry 1), and thousands (1+1=2).",
+    "flashcard_suggestion": "P:/S: card asking to solve 1,683 + 479 with carrying",
+    "original_filename": "37.png"
+  },
+  "step-by-step-addition-showing-21-357-861-1.png": {
+    "type": "worked_example",
+    "description": "Step-by-step addition showing 21,357 + 861 + 8,596, first four steps. Shows vertical alignment, ones addition (7+1+6=14, write 4 carry 1), tens addition (1+5+6+9=21, write 1 carry 2), and hundreds addition (2+3+8+5=18, write 8 carry 1).",
+    "flashcard_suggestion": "P:/S: card asking to add 21,357 + 861 + 8,596 with multiple carries",
+    "original_filename": "38-1.png"
+  },
+  "step-by-step-addition-showing-21-357-861-2.png": {
+    "type": "worked_example",
+    "description": "Continuation of 21,357 + 861 + 8,596 showing final steps: thousands addition (1+1+8=10, write 0 carry 1) and ten-thousands addition (1+2=3), final answer 30,814.",
+    "flashcard_suggestion": "Part of multi-step example with 38-1.png",
+    "original_filename": "38-2.png"
+  },
+  "table-1-2-showing-addition-vocabulary-op.png": {
+    "type": "table",
+    "description": "Table 1.2 showing addition vocabulary: Operation column shows 'Addition', Words column lists 'plus, sum, increased by, more than, total of, added to', Example column shows phrases like '1 plus 2', 'the sum of 3 and 4', etc., Expression column shows corresponding notation '1+2', '3+4', '5+6', '7+8', '9+5', '4+6'.",
+    "flashcard_suggestion": "Cloze deletion cards for each addition word/phrase or matching card pairing word phrases to expressions",
+    "original_filename": "39.png"
+  },
+  "l-shaped-patio-perimeter-problem-shows-p.png": {
+    "type": "diagram",
+    "description": "L-shaped patio perimeter problem. Shows patio with dimensions: 9 feet (top), 4 feet (left), 2 feet (inner vertical), 3 feet (inner horizontal), 6 feet (bottom), 2 feet (right vertical). Problem asks to find the perimeter.",
+    "flashcard_suggestion": "P:/S: card showing diagram and asking to find perimeter (answer: 9+4+2+3+6+2=26 feet)",
+    "original_filename": "40.png"
+  },
+  "symmetrical-u-shaped-figure-perimeter-pr.png": {
+    "type": "diagram",
+    "description": "Symmetrical U-shaped figure perimeter problem in inches. Top edge 9 inches, left/right outer edges 4 inches each, two inner rectangular cutouts each 3 inches wide and 2 inches tall, creating total of 10 edges to sum.",
+    "flashcard_suggestion": "P:/S: card showing diagram asking for perimeter calculation",
+    "original_filename": "41.png"
+  },
+  "step-shaped-figure-perimeter-problem-in.png": {
+    "type": "diagram",
+    "description": "Step-shaped figure perimeter problem in inches. Top edge 12 inches, descending steps on left (2, 4, 4) and right side 6 inches tall, bottom edges creating staircase pattern (4, 2, 4, 2, 4).",
+    "flashcard_suggestion": "P:/S: card showing diagram asking for perimeter of stepped figure",
+    "original_filename": "42.png"
+  },
+  "10x10-addition-table-with-row-and-column.png": {
+    "type": "table",
+    "description": "10x10 addition table with row and column headers 0-9. Shows all sums from 0+0=0 to 9+9=18. Some cells are shaded/highlighted, appears to show diagonal patterns or specific sum values.",
+    "flashcard_suggestion": "Reference table for practicing addition facts, or cloze deletion cards covering random cells",
+    "original_filename": "43.png"
+  },
+  "10x10-addition-table-similar-to-figure-4.png": {
+    "type": "table",
+    "description": "10x10 addition table similar to figure 43, with different cells shaded/highlighted. Row and column headers 0-9, shows all basic addition facts up to 9+9=18 with alternate highlighting pattern.",
+    "flashcard_suggestion": "Reference table or practice tool with different highlighted pattern than 43.png",
+    "original_filename": "44.png"
+  },
+  "blank-addition-practice-table-with-rows.png": {
+    "type": "table",
+    "description": "Blank addition practice table with rows labeled 6-9 and columns labeled 3-9. Empty cells for students to fill in sums.",
+    "flashcard_suggestion": "Practice exercise: fill in addition table for numbers 6-9 adding 3-9",
+    "original_filename": "45.png"
+  },
+  "blank-vertical-addition-practice-table-w.png": {
+    "type": "table",
+    "description": "Blank vertical addition practice table with column labeled 6-9 and rows labeled 3-9. Empty cells for students to fill in sums.",
+    "flashcard_suggestion": "Practice exercise: fill in addition table (vertical orientation) for 3-9 + 6-9",
+    "original_filename": "46.png"
+  },
+  "blank-addition-practice-table-with-rows-1.png": {
+    "type": "table",
+    "description": "Blank addition practice table with rows labeled 5-9 and columns labeled 5-9. Empty cells for students to fill in sums for larger single-digit addition facts.",
+    "flashcard_suggestion": "Practice exercise: fill in addition table for numbers 5-9 adding 5-9",
+    "original_filename": "47.png"
+  },
+  "smaller-blank-addition-practice-table-wi.png": {
+    "type": "table",
+    "description": "Smaller blank addition practice table with rows labeled 6-9 and columns labeled 6-9. Empty cells for students to fill in the most challenging single-digit addition facts.",
+    "flashcard_suggestion": "Practice exercise: fill in addition table for 6-9 + 6-9 (harder facts)",
+    "original_filename": "48.png"
+  },
+  "triangle-with-sides-labeled-14-in-12-in.png": {
+    "type": "diagram",
+    "description": "Triangle with sides labeled 14 in, 12 in, and 18 in. No explicit question shown but implied perimeter problem.",
+    "flashcard_suggestion": "P:/S: card showing triangle asking for perimeter (answer: 14+12+18=44 inches)",
+    "original_filename": "49.png"
+  },
+  "right-triangle-with-sides-labeled-5-cm-1.png": {
+    "type": "diagram",
+    "description": "Right triangle with sides labeled 5 cm, 13 cm (hypotenuse), and 12 cm (base). Implied perimeter problem.",
+    "flashcard_suggestion": "P:/S: card showing right triangle asking for perimeter (answer: 5+13+12=30 cm)",
+    "original_filename": "50.png"
+  },
+  "rectangle-with-dimensions-21-m-length-by.png": {
+    "type": "diagram",
+    "description": "Rectangle with dimensions 21 m (length) by 7 m (width/height), all four sides labeled. Implied perimeter problem.",
+    "flashcard_suggestion": "P:/S: card showing rectangle asking for perimeter (answer: 21+7+21+7=56 m)",
+    "original_filename": "51.png"
+  },
+  "rectangle-with-dimensions-19-ft-length-b.png": {
+    "type": "diagram",
+    "description": "Rectangle with dimensions 19 ft (length) by 14 ft (width/height), all four sides labeled. Implied perimeter problem.",
+    "flashcard_suggestion": "P:/S: card showing rectangle asking for perimeter (answer: 19+14+19+14=66 ft)",
+    "original_filename": "52.png"
+  },
+  "trapezoid-with-parallel-sides-19-yd-top.png": {
+    "type": "diagram",
+    "description": "Trapezoid with parallel sides 19 yd (top) and 16 yd (bottom), and equal non-parallel sides of 18 yd each. Implied perimeter problem.",
+    "flashcard_suggestion": "P:/S: card showing trapezoid asking for perimeter (answer: 19+18+16+18=71 yd)",
+    "original_filename": "53.png"
+  },
+  "trapezoid-with-parallel-sides-24-m-top-a.png": {
+    "type": "diagram",
+    "description": "Trapezoid with parallel sides 24 m (top) and 29 m (bottom), and equal non-parallel sides of 17 m each. Implied perimeter problem.",
+    "flashcard_suggestion": "P:/S: card showing trapezoid asking for perimeter (answer: 24+17+29+17=87 m)",
+    "original_filename": "54.png"
+  },
+  "irregular-polygon-rectangular-shape-with.png": {
+    "type": "diagram",
+    "description": "Irregular polygon (rectangular shape with rectangular notch cut from bottom left). Dimensions: 24 ft (top), 7 ft (right), 19 ft (bottom right section), 3 ft (inner vertical), 5 ft (inner horizontal), 4 ft (left vertical). Implied perimeter problem.",
+    "flashcard_suggestion": "P:/S: card showing irregular polygon asking for perimeter calculation",
+    "original_filename": "55.png"
+  },
+  "geometric-shape-showing-an-l-shaped-figu.png": {
+    "type": "diagram",
+    "description": "Geometric shape showing an L-shaped figure with labeled dimensions: top edge 25 in, left side 11 in, right side 10 in, bottom indentation 14 in, and vertical indentation 7 in",
+    "flashcard_suggestion": "Practice problem calculating perimeter or area of L-shaped figure with given dimensions",
+    "original_filename": "56.png"
+  },
+  "table-titled-subtraction-notation-explai.png": {
+    "type": "concept_illustration",
+    "description": "Table titled 'Subtraction Notation' explaining subtraction symbols and terminology. Shows that '-' symbol represents subtraction, with example 7 - 3 read as 'seven minus three' and resulting in 'the difference of 7 and 3'",
+    "flashcard_suggestion": "Terminology card: What does 'difference' mean in math? / What symbol represents subtraction?",
+    "original_filename": "57.png"
+  },
+  "visual-demonstration-of-subtraction-7-3.png": {
+    "type": "worked_example",
+    "description": "Visual demonstration of subtraction 7 - 3 = 4 using block models. Shows 7 blocks, circles 3 blocks to take away, counts 4 remaining blocks to demonstrate the result",
+    "flashcard_suggestion": "Basic subtraction visual: Solve 7 - 3 using take-away model",
+    "original_filename": "58.png"
+  },
+  "visual-demonstration-of-subtraction-8-2.png": {
+    "type": "worked_example",
+    "description": "Visual demonstration of subtraction 8 - 2 = 6 using block models. Shows 8 blocks, circles 2 blocks to take away, counts 6 remaining blocks",
+    "flashcard_suggestion": "Basic subtraction visual: Solve 8 - 2 using take-away model",
+    "original_filename": "59.png"
+  },
+  "visual-demonstration-of-subtraction-with.png": {
+    "type": "worked_example",
+    "description": "Visual demonstration of subtraction with regrouping: 13 - 8 = 5. Shows exchanging 1 ten for 10 ones (making 10 ones + 3 ones = 13 ones), circling 8 ones to remove, leaving 5 ones",
+    "flashcard_suggestion": "Regrouping practice: Solve 13 - 8 with visual model",
+    "original_filename": "60.png"
+  },
+  "visual-demonstration-of-subtraction-with-1.png": {
+    "type": "worked_example",
+    "description": "Visual demonstration of subtraction with regrouping: 43 - 26 = 17. Shows base-ten blocks with 4 tens and 3 ones, regrouping 1 ten into 10 ones, removing 2 tens and 6 ones, resulting in 1 ten and 7 ones",
+    "flashcard_suggestion": "Two-digit subtraction with regrouping: Solve 43 - 26",
+    "original_filename": "61.png"
+  },
+  "step-by-step-vertical-subtraction-showin.png": {
+    "type": "worked_example",
+    "description": "Step-by-step vertical subtraction showing 43 - 26 = 17 with borrowing. Shows borrowing from tens place (3 becomes 13, 4 becomes 3), subtracting ones (13 - 6 = 7), subtracting tens (3 - 2 = 1), with verification by adding 17 + 26 = 43",
+    "flashcard_suggestion": "P:/S: card: Subtract 43 - 26 using vertical format with borrowing",
+    "original_filename": "62.png"
+  },
+  "step-by-step-vertical-subtraction-showin-1.png": {
+    "type": "worked_example",
+    "description": "Step-by-step vertical subtraction showing 207 - 64 = 143 with borrowing from hundreds place. Shows borrowing 1 hundred to make 10 tens (0 tens becomes 10 tens, 2 hundreds becomes 1 hundred), then subtracting: ones (7 - 4 = 3), tens (10 - 6 = 4), hundreds (1 - 0 = 1), with verification 143 + 64 = 207",
+    "flashcard_suggestion": "P:/S: card: Subtract 207 - 64 with borrowing from hundreds",
+    "original_filename": "63.png"
+  },
+  "first-part-of-step-by-step-vertical-subt-1.png": {
+    "type": "worked_example",
+    "description": "First part of step-by-step vertical subtraction 910 - 586. Shows borrowing from tens place: cannot subtract 6 from 0, so borrow 1 ten making 10 ones (0 ones becomes 10 ones, 1 ten becomes 0 tens)",
+    "flashcard_suggestion": "P:/S: card: Subtract 910 - 586 (part 1: ones place borrowing)",
+    "original_filename": "64-1.png"
+  },
+  "first-part-of-step-by-step-vertical-subt-2.png": {
+    "type": "worked_example",
+    "description": "Second part of step-by-step vertical subtraction 910 - 586. Shows borrowing from hundreds place: cannot subtract 8 from 0 tens, borrow 1 hundred to make 10 tens (0 tens becomes 10 tens, 9 hundreds becomes 8 hundreds). Completes calculation: ones (10 - 6 = 4), tens (10 - 8 = 2), hundreds (8 - 5 = 3), result = 324, with verification 324 + 586 = 910",
+    "flashcard_suggestion": "P:/S: card: Subtract 910 - 586 (complete problem with multiple borrowing)",
+    "original_filename": "64-2.png"
+  },
+  "first-part-of-step-by-step-vertical-subt-1-1.png": {
+    "type": "worked_example",
+    "description": "First part of step-by-step vertical subtraction 2,162 - 479. Shows initial borrowing: cannot subtract 9 from 2 in ones place, borrow 1 ten making 12 ones (2 ones becomes 12 ones, 6 tens becomes 5 tens). Calculates ones: 12 - 9 = 3",
+    "flashcard_suggestion": "P:/S: card: Subtract 2,162 - 479 (part 1: ones place)",
+    "original_filename": "65-1.png"
+  },
+  "first-part-of-step-by-step-vertical-subt-2-1.png": {
+    "type": "worked_example",
+    "description": "Second part of step-by-step vertical subtraction 2,162 - 479 = 1,683. Shows borrowing from hundreds: cannot subtract 7 from 5 tens, borrow 1 hundred making 15 tens (5 tens becomes 15 tens, 1 hundred becomes 0 hundreds). Completes all places: tens (15 - 7 = 8), hundreds (10 - 4 = 6), thousands (1 - 0 = 1), with verification 1,683 + 479 = 2,162",
+    "flashcard_suggestion": "P:/S: card: Subtract 2,162 - 479 (complete with verification)",
+    "original_filename": "65-2.png"
+  },
+  "table-1-3-showing-word-phrases-for-subtr.png": {
+    "type": "table",
+    "description": "Table 1.3 showing word phrases for subtraction operation. Lists 5 phrases with examples and expressions: 'minus' (5 minus 1 = 5-1), 'difference' (the difference of 9 and 4 = 9-4), 'decreased by' (7 decreased by 3 = 7-3), 'less than' (5 less than 8 = 8-5), 'subtracted from' (1 subtracted from 6 = 6-1)",
+    "flashcard_suggestion": "Terminology cards: multiple cards for each phrase (e.g., 'How do you write \"5 less than 8\" as math expression?')",
+    "original_filename": "66.png"
+  },
+  "word-problem-example-showing-translation.png": {
+    "type": "worked_example",
+    "description": "Word problem example showing translation from words to math: 'the difference of 73 and 27' translates to 73 - 27, then shows vertical subtraction with borrowing (6/13 over 73) resulting in 46, concluding 'The difference in temperatures was 46 degrees Fahrenheit'",
+    "flashcard_suggestion": "Word problem: Translate and solve 'the difference of 73 and 27'",
+    "original_filename": "67.png"
+  },
+  "word-problem-example-showing-translation-1.png": {
+    "type": "worked_example",
+    "description": "Word problem example showing translation: 'the difference between 588 and 399' translates to 588 - 399, shows vertical subtraction with borrowing (4/17/18 over 588) resulting in 189, concluding 'The difference between the regular price and the sale price is $189'",
+    "flashcard_suggestion": "Word problem: Find the difference between 588 and 399 in context",
+    "original_filename": "68.png"
+  },
+  "figure-1-11-showing-an-array-of-24-penni.png": {
+    "type": "diagram",
+    "description": "Figure 1.11 showing an array of 24 pennies arranged in 3 rows of 8 pennies each, demonstrating multiplication as repeated addition or array model",
+    "flashcard_suggestion": "Visual multiplication: How many pennies total in 3 rows of 8?",
+    "original_filename": "69.png"
+  },
+  "table-titled-operation-symbols-for-multi.png": {
+    "type": "concept_illustration",
+    "description": "Table titled 'Operation Symbols for Multiplication' showing three notations for multiplication: × (cross), · (dot), and () parentheses. Examples: 3 × 8, 3 · 8, 3(8), all read as 'three times eight' or 'the product of 3 and 8'",
+    "flashcard_suggestion": "Terminology card: What are three ways to write multiplication? / What does 'product' mean?",
+    "original_filename": "70.png"
+  },
+  "visual-demonstration-of-multiplication-3.png": {
+    "type": "worked_example",
+    "description": "Visual demonstration of multiplication 3 × 8 = 24 using counters. Shows 1 row of 8 counters, then 3 rows of 8 counters arranged in array, totaling 24 counters. Notes that product could also be modeled as 8 rows of 3 counters (commutative property)",
+    "flashcard_suggestion": "Array model: Solve 3 × 8 using visual array",
+    "original_filename": "71.png"
+  },
+  "table-1-4-complete-multiplication-table.png": {
+    "type": "table",
+    "description": "Table 1.4: Complete multiplication table from 0-9 × 0-9. Shows all products from 0×0=0 through 9×9=81 in grid format with row and column headers",
+    "flashcard_suggestion": "Use for drilling multiplication facts 0-9",
+    "original_filename": "72.png"
+  },
+  "small-diagram-showing-place-value-breakd-1.png": {
+    "type": "diagram",
+    "description": "Small diagram showing place value breakdown of 21 in multiplication context (27 × 3). Points to '2 tens in 21' and '1 one in 21' to illustrate regrouping during multiplication",
+    "flashcard_suggestion": "Place value in multiplication: Understanding regrouping in 27 × 3",
+    "original_filename": "73-1.png"
+  },
+  "small-diagram-showing-place-value-breakd-2.png": {
+    "type": "worked_example",
+    "description": "Partial multiplication step showing 27 × 3 with result 81, with annotation explaining '81 ← This comes from 3 × 2 plus the 2 we carried.' Shows carrying concept in multi-digit multiplication.",
+    "flashcard_suggestion": "Concept card explaining how carrying works in multiplication",
+    "original_filename": "73-2.png"
+  },
+  "step-by-step-worked-example-showing-mult.png": {
+    "type": "worked_example",
+    "description": "Step-by-step worked example showing multiplication 15 × 4 = 60. Shows four steps: (1) Write numbers vertically, (2) Multiply 4 × 5 = 20, write 0 and carry 2, (3) Multiply 4 × 1 = 4, add carried 2 to get 6, (4) Write final answer 60.",
+    "flashcard_suggestion": "P/S card: Multiply 15 × 4",
+    "original_filename": "74.png"
+  },
+  "first-step-of-multiplication-286-5-showi-1.png": {
+    "type": "worked_example",
+    "description": "First step of multiplication 286 × 5, showing: Write numbers vertically aligned, then multiply 5 × 6 = 30.",
+    "flashcard_suggestion": "P/S card: Multiply 286 × 5",
+    "original_filename": "75-1.png"
+  },
+  "first-step-of-multiplication-286-5-showi-2.png": {
+    "type": "worked_example",
+    "description": "Continuation of 286 × 5 showing three steps: (1) Write 0 in ones place, carry 3, multiply 5 × 8 = 40, (2) Add carried 3 to get 43, write 3 in tens place, carry 4, (3) Multiply 5 × 2 = 10, add carried 4 to get 14, resulting in final answer 1,430.",
+    "flashcard_suggestion": null,
+    "original_filename": "75-2.png"
+  },
+  "detailed-step-by-step-example-of-two-dig.png": {
+    "type": "worked_example",
+    "description": "Detailed step-by-step example of two-digit multiplication 62 × 87 = 5,394. Shows complete process including: first partial product (7 × 62 = 434), second partial product (80 × 62 = 4960), and adding partial products to get 5,394. Includes all carrying notation.",
+    "flashcard_suggestion": "P/S card: Multiply 62 × 87",
+    "original_filename": "76.png"
+  },
+  "worked-example-showing-multiplication-by.png": {
+    "type": "worked_example",
+    "description": "Worked example showing multiplication by 10: 47 × 10 = 470. Shows vertical format with partial products: 00 and 470, resulting in 470.",
+    "flashcard_suggestion": "Concept card: What happens when you multiply by 10?",
+    "original_filename": "77.png"
+  },
+  "worked-example-showing-multiplication-by-1.png": {
+    "type": "worked_example",
+    "description": "Worked example showing multiplication by 100: 47 × 100 = 4,700. Shows vertical format with partial products: 00, 000, and 4700, resulting in 4,700.",
+    "flashcard_suggestion": "Concept card: What happens when you multiply by 100?",
+    "original_filename": "78.png"
+  },
+  "example-of-multiplication-354-438-155-05.png": {
+    "type": "worked_example",
+    "description": "Example of multiplication 354 × 438 = 155,052 with annotation. Shows three partial products: 2832 (from 8 × 354), 1062 (from 3 × 354), and 1416 (from 4 × 354). Includes note: 'There are three digits in the factors so there will be 3 partial products. We do not have to write the 0 as a placeholder as long as we write each partial product in the correct place.'",
+    "flashcard_suggestion": "P/S card: Multiply 354 × 438",
+    "original_filename": "79.png"
+  },
+  "example-of-multiplication-896-201-180-09.png": {
+    "type": "worked_example",
+    "description": "Example of multiplication 896 × 201 = 180,096 with explanation. Shows partial products with annotation about zero handling: 'Multiply 1(896)', 'Multiply 0(896)', 'Multiply 2(896)', 'Add the partial products'. Includes note: 'Notice that the second partial product of all zeros doesn't really affect the result. We can place a zero as a placeholder in the tens place and then proceed directly to multiplying by the 2 in the hundreds place.'",
+    "flashcard_suggestion": "P/S card: Multiply 896 × 201",
+    "original_filename": "80.png"
+  },
+  "table-1-5-showing-word-phrases-and-expre.png": {
+    "type": "table",
+    "description": "Table 1.5 showing word phrases and expressions for multiplication. Columns: Operation, Word Phrase, Example, Expression. Row shows: Multiplication | times, product, twice | 3 times 8, the product of 3 and 8, twice 4 | 3 × 8, 3 · 8, (3)(8), (3)8, or 3(8), 2 · 4",
+    "flashcard_suggestion": "Recognition card: What operation does 'product of' indicate?",
+    "original_filename": "81.png"
+  },
+  "word-problem-translation-example-the-pro.png": {
+    "type": "worked_example",
+    "description": "Word problem translation example: 'the product of 12 and 27'. Shows: Translate step (12 · 27), then Multiply step (324). Includes explanation: 'The word product tells us to multiply. The words of 12 and 27 tell us the two factors.'",
+    "flashcard_suggestion": "P/S card: Translate 'the product of 12 and 27' to math notation",
+    "original_filename": "82.png"
+  },
+  "word-problem-translation-example-twice-t.png": {
+    "type": "worked_example",
+    "description": "Word problem translation example: 'twice two hundred eleven'. Shows: Translate step (2(211)), then Multiply step (422). Includes explanation: 'The word twice tells us to multiply by 2.'",
+    "flashcard_suggestion": "P/S card: Translate 'twice two hundred eleven' to math notation",
+    "original_filename": "83.png"
+  },
+  "word-problem-setup-we-are-asked-to-find-1.png": {
+    "type": "worked_example",
+    "description": "Word problem setup: 'We are asked to find the total number of stamps.' Shows two steps: (1) Write a phrase for the total: 'the product of 4 and 20', (2) Translate to math notation: 4 · 20",
+    "flashcard_suggestion": "Application card: Humberto bought 20 packs of 4 stamps. How many stamps total?",
+    "original_filename": "84-1.png"
+  },
+  "word-problem-setup-we-are-asked-to-find-2.png": {
+    "type": "worked_example",
+    "description": "Continuation showing: Multiply step (20 × 4 = 80) and final answer sentence: 'Humberto bought 80 stamps.'",
+    "flashcard_suggestion": null,
+    "original_filename": "84-2.png"
+  },
+  "word-problem-we-are-asked-to-find-how-mu.png": {
+    "type": "worked_example",
+    "description": "Word problem: 'We are asked to find how much water Rena needs.' Shows four steps: (1) Write as phrase: 'twice as much as 4 cups', (2) Translate: 2 · 4, (3) Multiply: 8, (4) Answer sentence: 'Rena needs 8 cups of water for 4 cups of rice.'",
+    "flashcard_suggestion": "Application card: Recipe needs twice as much as 4 cups. How much total?",
+    "original_filename": "85.png"
+  },
+  "word-problem-setup-we-are-asked-to-find-1-1.png": {
+    "type": "worked_example",
+    "description": "Word problem setup: 'We are asked to find the total number of tiles.' Shows two steps: (1) Write a phrase: 'the product of 8 and 14', (2) Translate to math notation: 8 · 14",
+    "flashcard_suggestion": "Application card: Van needs tiles for 8 rows of 14. How many tiles total?",
+    "original_filename": "86-1.png"
+  },
+  "word-problem-setup-we-are-asked-to-find-2-1.png": {
+    "type": "worked_example",
+    "description": "Continuation showing multiplication 14 × 8 = 112 (with carrying notation showing small 3 above) and final answer sentence: 'Van needs 112 tiles for his patio.'",
+    "flashcard_suggestion": null,
+    "original_filename": "86-2.png"
+  },
+  "diagram-showing-units-of-area-two-square.png": {
+    "type": "diagram",
+    "description": "Diagram showing units of area: two squares side by side. Left: 1 square centimeter (1 sq. cm or 1 cm²) with 1 cm sides. Right: 1 square inch (1 sq. in. or 1 in²) with 1 inch sides.",
+    "flashcard_suggestion": "Concept card: What are the standard units for measuring area?",
+    "original_filename": "87.png"
+  },
+  "figure-1-12-showing-area-concept-with-re.png": {
+    "type": "diagram",
+    "description": "Figure 1.12 showing area concept with rectangle. Rectangle is 2 ft by 3 ft, divided into 6 square units. Caption: 'The area of a rectangle is the product of its length and its width, or 6 square feet.' Shows calculation: 2 · 3 = 6 ft²",
+    "flashcard_suggestion": "Concept card: How do you find the area of a rectangle?",
+    "original_filename": "88.png"
+  },
+  "word-problem-setup-we-are-asked-to-find-1-2.png": {
+    "type": "worked_example",
+    "description": "Word problem setup: 'We are asked to find the area of the kitchen ceiling.' Shows two steps: (1) Write a phrase for the area: 'the product of 9 and 12', (2) Translate to math notation: 9 · 12",
+    "flashcard_suggestion": "Application card: Find the area of a kitchen ceiling 9 ft by 12 ft",
+    "original_filename": "89-1.png"
+  },
+  "word-problem-setup-we-are-asked-to-find-2-2.png": {
+    "type": "worked_example",
+    "description": "Multiplication problem showing 12 × 9 = 108 with the answer formatted as a complete sentence: 'The area of Jen's kitchen ceiling is 108 square feet.'",
+    "flashcard_suggestion": "P:/S: card asking to calculate 12 × 9 in context of area problem",
+    "original_filename": "89-2.png"
+  },
+  "partially-filled-multiplication-table-fr.png": {
+    "type": "table",
+    "description": "Partially filled multiplication table from 0-9 for both rows and columns, showing select products including 0×n, 1×n, diagonal squares, and scattered other products like 2×9=18, 3×7=21, 4×8=32, 5×8=40, 6×9=54, 7×8=56, 8×9=72",
+    "flashcard_suggestion": "Practice table: Print blank version for filling in products, or create cloze deletion cards for missing values",
+    "original_filename": "90.png"
+  },
+  "alternative-partially-filled-multiplicat.png": {
+    "type": "table",
+    "description": "Alternative partially filled multiplication table from 0-9, with different cells filled than figure 90, including products like 1×7=7, 2×8=16, 3×8=24, 4×9=36, 5×7=35, 6×7=42, 7×9=63, 8×9=72, 9×7=63",
+    "flashcard_suggestion": "Practice table: Print blank version for filling in products, or create cloze deletion cards for missing values",
+    "original_filename": "91.png"
+  },
+  "blank-multiplication-table-template-with.png": {
+    "type": "table",
+    "description": "Blank multiplication table template with rows 4-9 and columns 3-9, all cells empty for practice",
+    "flashcard_suggestion": "Printable practice sheet for upper multiplication facts (3-9 × 4-9)",
+    "original_filename": "92.png"
+  },
+  "blank-multiplication-table-template-with-1.png": {
+    "type": "table",
+    "description": "Blank multiplication table template with rows 3-9 and columns 4-9, all cells empty for practice",
+    "flashcard_suggestion": "Printable practice sheet for upper multiplication facts (4-9 × 3-9)",
+    "original_filename": "93.png"
+  },
+  "blank-multiplication-table-template-with-2.png": {
+    "type": "table",
+    "description": "Blank multiplication table template with rows 6-9 and columns 3-9, all cells empty for practice",
+    "flashcard_suggestion": "Printable practice sheet for upper multiplication facts (3-9 × 6-9)",
+    "original_filename": "94.png"
+  },
+  "blank-multiplication-table-template-with-3.png": {
+    "type": "table",
+    "description": "Blank multiplication table template with rows 3-9 and columns 6-9, all cells empty for practice",
+    "flashcard_suggestion": "Printable practice sheet for upper multiplication facts (6-9 × 3-9)",
+    "original_filename": "95.png"
+  },
+  "blank-multiplication-table-template-with-4.png": {
+    "type": "table",
+    "description": "Blank multiplication table template with rows 5-9 and columns 5-9, all cells empty for practice",
+    "flashcard_suggestion": "Printable practice sheet for upper multiplication facts (5-9 × 5-9)",
+    "original_filename": "96.png"
+  },
+  "blank-multiplication-table-template-with-5.png": {
+    "type": "table",
+    "description": "Blank multiplication table template with rows 6-9 and columns 6-9, all cells empty for practice",
+    "flashcard_suggestion": "Printable practice sheet for highest multiplication facts (6-9 × 6-9)",
+    "original_filename": "97.png"
+  },
+  "visual-representation-labeled-figure-1-1-1.png": {
+    "type": "diagram",
+    "description": "Visual representation labeled 'Figure 1.13' showing 3 rows of 4 chocolate chip cookies each (12 cookies total) to illustrate multiplication or division concepts",
+    "flashcard_suggestion": "Visual counting card: Ask 'How many cookies?' or create multiplication problem 3×4",
+    "original_filename": "98-1.png"
+  },
+  "visual-representation-labeled-figure-1-1-2.png": {
+    "type": "diagram",
+    "description": "Visual showing 3 shopping bags, each containing 4 chocolate chip cookies arranged in a 2×2 grid, illustrating grouping for multiplication/division (3 groups of 4)",
+    "flashcard_suggestion": "Visual division/multiplication card: Ask 'How many groups?' or 'How many in each group?'",
+    "original_filename": "98-2.png"
+  },
+  "table-1-6-showing-division-notation-with.png": {
+    "type": "table",
+    "description": "Table 1.6 showing division notation with five columns: Operation, Notation, Expression, Read as, and Result. Shows division (÷, a/b, b)a̅, a/b) using example 12÷4 read as 'Twelve divided by four' with result 'the quotient of 12 and 4'",
+    "flashcard_suggestion": "Concept card: Front shows different division notations, back explains how to read them",
+    "original_filename": "99.png"
+  },
+  "step-by-step-visual-explanation-of-divis.png": {
+    "type": "concept_illustration",
+    "description": "Step-by-step visual explanation of division 24÷8 using counters: shows 24 blue circles being grouped into 3 groups of 8, demonstrating that 24÷8=3 with text explaining each step of the grouping process",
+    "flashcard_suggestion": "Conceptual understanding card: Use to explain division as grouping, ask to model similar problems",
+    "original_filename": "100.png"
+  },
+  "table-1-6-showing-two-division-propertie.png": {
+    "type": "table",
+    "description": "Table 1.6 showing two division properties: 'Any number (except 0) divided by itself is one' (a÷a=1) and 'Any number divided by one is the same number' (a÷1=a)",
+    "flashcard_suggestion": "Rule memorization cards: Two separate cards for division by self and division by 1",
+    "original_filename": "101.png"
+  },
+  "table-1-7-showing-division-properties-wi.png": {
+    "type": "table",
+    "description": "Table 1.7 showing division properties with zero: 'Zero divided by any number is 0' (0÷a=0) and 'Dividing a number by zero is undefined' (a÷0 undefined)",
+    "flashcard_suggestion": "Rule memorization cards: Two separate cards for zero in division (as dividend vs divisor)",
+    "original_filename": "102.png"
+  },
+  "step-by-step-long-division-showing-78-3.png": {
+    "type": "worked_example",
+    "description": "Step-by-step long division showing 78÷3=26: dividing first digit (7÷3=2 R1), bringing down 8 to make 18, then dividing 18÷3=6, with each step fully explained in text and shown in standard long division notation",
+    "flashcard_suggestion": "P:/S: card asking to solve 78÷3 using long division",
+    "original_filename": "103.png"
+  },
+  "first-part-of-long-division-example-for-1.png": {
+    "type": "worked_example",
+    "description": "First part of long division example for 2596÷4: shows initial steps including setting up problem, dividing 25÷4=6 R1, multiplying back (6×4=24), and subtracting (25-24=1)",
+    "flashcard_suggestion": "P:/S: card asking to solve 2596÷4 (part of multi-step problem)",
+    "original_filename": "104-1.png"
+  },
+  "first-part-of-long-division-example-for-2.png": {
+    "type": "worked_example",
+    "description": "Continuation of 2596÷4 long division: shows bringing down 9 (making 19), dividing 19÷4=4, then bringing down 6 (making 36), dividing 36÷4=9, yielding final answer 649, verified by multiplication 649×4=2596",
+    "flashcard_suggestion": "P:/S: card asking to solve 2596÷4 with verification step",
+    "original_filename": "104-2.png"
+  },
+  "first-part-of-long-division-example-for-1-1.png": {
+    "type": "worked_example",
+    "description": "First part of long division example for 4506÷9: shows attempting to divide 6÷4 (doesn't work), then 45÷9=7, multiplying 7×9=42, and subtracting 45-42=3",
+    "flashcard_suggestion": "P:/S: card asking to solve 4506÷9 (focuses on when divisor doesn't fit into first digit)",
+    "original_filename": "105-1.png"
+  },
+  "first-part-of-long-division-example-for-2-1.png": {
+    "type": "worked_example",
+    "description": "Continuation of 4506÷9 long division: brings down 0 (making 30), divides 30÷9=5, brings down 6 (making 6), divides 6÷9=1, yielding final answer 751, verified by multiplication 751×6=4506",
+    "flashcard_suggestion": "P:/S: card asking to solve 4506÷9 with verification step",
+    "original_filename": "105-2.png"
+  },
+  "step-by-step-long-division-showing-7263-1.png": {
+    "type": "worked_example",
+    "description": "Step-by-step long division showing 7263 ÷ 9 = 807. Shows the process: dividing 72 by 9 (quotient 8), multiplying 8×9=72, subtracting to get 0, bringing down 6 (0 nines in 6, quotient 0), bringing down 3 (7 nines in 63, quotient 7), final answer 807 with remainder 0.",
+    "flashcard_suggestion": "Problem/Solution card: Divide 7263 ÷ 9 using long division",
+    "original_filename": "106-1.png"
+  },
+  "step-by-step-long-division-showing-7263-2.png": {
+    "type": "worked_example",
+    "description": "Continuation and verification of 7263 ÷ 9 = 807. Shows bringing down the 3, finding 7 nines in 63, writing 7 over the 3, multiplying 7×9=63, subtracting to get 0. Includes check by multiplication: 807 × 9 = 7,263 with checkmark confirming correctness.",
+    "flashcard_suggestion": "Concept card: How to check division answers using multiplication",
+    "original_filename": "106-2.png"
+  },
+  "visual-representation-of-35-chocolate-ch-1.png": {
+    "type": "concept_illustration",
+    "description": "Visual representation of 35 chocolate chip cookies arranged randomly, labeled as Figure 1.14. Used to illustrate a division problem setup.",
+    "flashcard_suggestion": "Visual problem setup for division word problem (pair with corresponding worked example)",
+    "original_filename": "107-1.png"
+  },
+  "visual-representation-of-35-chocolate-ch-2.png": {
+    "type": "concept_illustration",
+    "description": "Visual representation showing 35 chocolate chip cookies divided into 5 equal groups (circled in purple), with 7 cookies in each group. Labeled as Figure 1.15. Demonstrates the concept of division as equal grouping.",
+    "flashcard_suggestion": "Concept card: What does division represent? (equal grouping visualization)",
+    "original_filename": "107-2.png"
+  },
+  "complete-step-by-step-long-division-show.png": {
+    "type": "worked_example",
+    "description": "Complete step-by-step long division showing 1439 ÷ 4 = 359 R3. Shows process: 3 fours in 14, multiply 3×4=12, subtract to get 2; bring down 3 to get 23, 5 fours in 23, multiply 5×4=20, subtract to get 3; bring down 9 to get 39, 9 fours in 39, multiply 9×4=36, subtract to get remainder 3. Includes verification by multiplication: (359 × 4) + 3 = 1,436 + 3 = 1,439 with checkmark.",
+    "flashcard_suggestion": "Problem/Solution card: Divide 1439 ÷ 4 using long division",
+    "original_filename": "108.png"
+  },
+  "beginning-of-long-division-problem-1461-1.png": {
+    "type": "worked_example",
+    "description": "Beginning of long division problem 1461 ÷ 13. Shows first two steps: 1 thirteen in 14 (write 1 over the 4), multiply 1×13=13, subtract from 14 to get 1; bring down 6 to get 16, 1 thirteen in 16 (write 1 over the 6), multiply 1×13=13, subtract from 16 to get 3.",
+    "flashcard_suggestion": "Problem/Solution card: Divide 1461 ÷ 13 (part 1 of multi-step example)",
+    "original_filename": "109-1.png"
+  },
+  "beginning-of-long-division-problem-1461-2.png": {
+    "type": "worked_example",
+    "description": "Complete long division showing 1461 ÷ 13 = 112 R5. Shows final steps: bring down 1 to get 31, 2 thirteens in 31 (write 2 over the 1), multiply 2×13=26, subtract from 31 to get remainder 5. Includes verification: (112 × 13) + 5 = 336 + 1,120 + 5 = 1,461 with checkmark.",
+    "flashcard_suggestion": "Problem/Solution card: Divide 1461 ÷ 13 using long division",
+    "original_filename": "109-2.png"
+  },
+  "beginning-of-long-division-problem-74521-1.png": {
+    "type": "worked_example",
+    "description": "Beginning of long division problem 74521 ÷ 241. Shows trial and error process: 241 doesn't divide into 7 or 74, tries 241 into 745. Determines quotient digit is 3 (since 3×241=723, which fits, but 4×241=964 is too large). Shows 3 over the 5, multiply 3×241=723, subtract from 745 to get 22.",
+    "flashcard_suggestion": "Concept card: How to estimate quotient digits in complex long division",
+    "original_filename": "110-1.png"
+  },
+  "beginning-of-long-division-problem-74521-2.png": {
+    "type": "worked_example",
+    "description": "Complete long division showing 74521 ÷ 241 = 309 R52. Shows: bring down 2 (241 doesn't divide into 222, write 0 placeholder); bring down 1 to get 2221, try 9 (since 9×241=2,169), subtract to get remainder 52. Final answer: 309 R52. Includes detailed verification by multiplication: 309×241 = 309 + 12,360 + 61,800 = 72,469, then add 52 to get 74,521 with checkmark.",
+    "flashcard_suggestion": "Problem/Solution card: Divide 74521 ÷ 241 using long division",
+    "original_filename": "110-2.png"
+  },
+  "table-1-8-showing-division-notation-and.png": {
+    "type": "table",
+    "description": "Table 1.8 showing division notation and terminology. Four columns: Operation (Division), Word Phrase (divided by, quotient of, divided into), Example (12 divided by 4, the quotient of 12 and 4, 4 divided into 12), Expression (12÷4, 12/4, 12/4, 4)12).",
+    "flashcard_suggestion": "Concept card: What are the different ways to express division? (notation variants)",
+    "original_filename": "111.png"
+  },
+  "step-by-step-word-problem-solution-for-f.png": {
+    "type": "worked_example",
+    "description": "Step-by-step word problem solution for finding servings from a box. Shows: Write a phrase ('160 ounces divided by 8 ounces'), Translate to math notation (160÷8), Simplify by dividing (20), Write sentence answer ('Cecelia will get 20 servings from the big box').",
+    "flashcard_suggestion": "Problem/Solution card: Word problem - How many 8-ounce servings in 160 ounces?",
+    "original_filename": "112.png"
+  }
+}

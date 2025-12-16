@@ -1,0 +1,17 @@
+# Reference materials (PDFs, textbooks - keep local for copyright)
+references/
+
+# Images directories only (keep the actual image files)
+**/images/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Editor directories
+.vscode/
+.idea/
